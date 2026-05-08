@@ -1,6 +1,6 @@
 # Visual Docs
 
-[![GitHub stars](https://img.shields.io/github/stars/pv2dev/visual-docs?style=social)](https://github.com/pv2dev/visual-docs/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/pv2dev/visual-docs?style=social&cacheSeconds=60&v=2)](https://github.com/pv2dev/visual-docs/stargazers)
 [![License: MIT](https://img.shields.io/badge/license-MIT-0a0a0a.svg)](LICENSE)
 ![Claude skill](https://img.shields.io/badge/Claude-skill-0a0a0a)
 ![Codex skill](https://img.shields.io/badge/Codex-skill-0a0a0a)
@@ -10,7 +10,7 @@ Turn any repository into a clean visual explanation: graph JSON first, standalon
 
 Visual Docs is a portable AI skill for explaining repositories, features, modules, agent systems, prompt stacks, provider routing, business flows, and code pipelines. It starts from the product meaning, then walks down into folders, abstractions, examples, risks, and source evidence.
 
-![Visual Docs Focus Map](assets/visual-docs-focus-map.png)
+![Visual Docs Focus Map](assets/visual-docs-focus-map-en.png)
 
 ## What It Creates
 
