@@ -12,6 +12,16 @@ Visual Docs is a portable AI skill for explaining repositories, features, module
 
 ![Visual Docs Focus Map](assets/visual-docs-focus-map-en.png)
 
+## Star History
+
+<a href="https://www.star-history.com/#pv2dev/visual-docs&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=pv2dev/visual-docs&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=pv2dev/visual-docs&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=pv2dev/visual-docs&type=Date" />
+  </picture>
+</a>
+
 ## What It Creates
 
 Default output:
