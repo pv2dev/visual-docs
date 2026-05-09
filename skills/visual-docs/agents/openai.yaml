@@ -1,0 +1,8 @@
+interface:
+  display_name: "Visual Docs"
+  short_description: "Repo explainer as graph JSON and HTML"
+  brand_color: "#E8B94A"
+  default_prompt: "Use $visual-docs to explain this repository with a standalone HTML map."
+
+policy:
+  allow_implicit_invocation: true
